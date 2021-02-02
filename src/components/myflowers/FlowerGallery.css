@@ -1,0 +1,18 @@
+.flowers-gallery {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.flowers-gallery-title {
+    text-align: center;
+    text-decoration: solid;
+    padding-top: 1em;
+}
+
+.flower-gallery-container {
+    margin: 1em;
+    background-color: bisque;
+    align-content: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
